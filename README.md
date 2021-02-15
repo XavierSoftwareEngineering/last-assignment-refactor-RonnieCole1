@@ -5,4 +5,4 @@ It uses:
   -A Heap
   -A Queue
 
-In addition, there is a revised version which is update to abide by clean code standards.
+In addition, there is a revised version which is updated to abide by clean code standards.
